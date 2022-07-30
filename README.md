@@ -6,9 +6,7 @@
 
 ## My GitHub stats
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasOliveira&theme=github_dark&hide_langs_below=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasOliveira&theme=github_dark&layout=compact)](https://github.com/LucaasOliveira/github-readme-stats)
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucaasOliveira&show_icons=true&theme=github_dark&line_height=27" />
