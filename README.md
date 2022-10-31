@@ -2,7 +2,7 @@
 
 ##  Hi, my name is <strong>Lucas Oliveira!</strong>
 
-> I'm 27 years old, Full Stack Web Developer, student of the 9th Edition of the program - Starter Full Stack Web Developer.<br>
+> I'm 27 years old, Full Stack Web Developer, student of the 11th Edition of the program - Starter Full Stack Web Developer.<br>
 
 ## My GitHub stats
 
