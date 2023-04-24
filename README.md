@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-##  Hi, my name is <strong>Lucas Oliveira!</strong>
+##  Hi, my name is <strong>Lucas Almeida!</strong>
 
 > I'm 27 years old, Full Stack Web Developer, student of the 11th Edition of the program - Starter Full Stack Web Developer.<br>
 
@@ -14,6 +14,6 @@
 
 ## 🌎 Contacts & Social Media!
 
-<a href="https://www.linkedin.com/in/lucas-oliveira-98a076222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/olucasalmeidaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/LucaasOliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:olucasoliveira013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:almeidalcs.lucas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
