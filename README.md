@@ -1,16 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+##  Hi, my name is <strong>Lucas Almeida de Oliveira!</strong>
 
-##  Hi, my name is <strong>Lucas Almeida!</strong>
-
-> I'm 27 years old, Full Stack Web Developer, student of the 11th Edition of the program - Starter Full Stack Web Developer.<br>
+> I'm 28 years old.<br>
+> Full Stack Web Developer.<br>
+> Barista with latte art skills.<br>
 
 ## My GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasOliveira&langs_count=8&theme=github_dark)](https://github.com/LucaasOliveira/github-readme-stats)
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucaasOliveira&show_icons=true&theme=github_dark&line_height=27" />
-</a><br>
 
 ## 🌎 Contacts & Social Media!
 
